@@ -148,7 +148,7 @@ cordova-paramedic --platform ios --plugin cordova-plugin-contacts --tccDbPath tc
 
 ####--shouldUseSauce (optional)
 
-Run tests on [Sauce Labs](https://saucelabs.com/). You'll need to specify Sauce Labs username and access key using either --sauceUser and --sauceKey arguments or SAUCE_USER and SAUCE_ACCESS_KEY environment variables.
+Run tests on [Sauce Labs](https://saucelabs.com/). You'll need to specify Sauce Labs username and access key using either --sauceUser and --sauceKey arguments or SAUCE_USERNAME and SAUCE_ACCESS_KEY environment variables.
 
 ####--buildName (optional)
 
